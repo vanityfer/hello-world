@@ -7,7 +7,7 @@ let NAMES = [
 ];
 
 let VERSES = {
-  "Ezequiel": [
+  "soñé": [
     "película cuarto de libra con queso cómo se llama",
     "tiempos violentos película completa",
     "tiempos violentos película completa español latino",
@@ -28,7 +28,7 @@ let VERSES = {
     "quién escribió voy a tener suerte",
     "análisis voy a tener suerte"
   ],
-  "Carla": [
+  "soñé": [
     "no me viene",
     "no me viene hace 2 meses",
     "no me viene hace 2 meses y tomo pastillas",
@@ -49,7 +49,7 @@ let VERSES = {
     "tasa de mortalidad perinatal argentina",
     "psicóloga duelo perinatal"
   ],
-  "Z.": [
+  "soñé": [
     "mujer gritándole a gato",
     "mujer gritándole a gato meme",
     "mujer gritándole a gato meme origen",
