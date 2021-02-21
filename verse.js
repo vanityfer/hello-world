@@ -47,10 +47,9 @@ let VERSES = {
     "psicóloga duelo perinatal"
   ],
   "soñé": [
-    "mujer gritándole a gato",
-    "mujer gritándole a gato meme",
-    "mujer gritándole a gato meme origen",
-    "crear meme mujer gritándole a gato",
+    "que te daba una cachetada",
+    "que no",
+    "que te quebrabas las dos plantas de los pies",
     "",
     "pepa es lo mismo que lsd",
     "pepa droga es adictiva",
