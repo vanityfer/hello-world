@@ -1,21 +1,8 @@
 
 let NAMES = [
-  "Martín",
-  "Alejandra",
-  "Héctor",
-  "Jorge",
-  "Carla",
-  "Z.",
-  "Daiana",
-  "Ezequiel",
-  "Juli",
-  "Nicolás",
-  "L.",
-  "Yohanna",
-  "T.",
-  "María",
-  "Ignacio",
-  "B.",
+  "soñé",
+  "soñé",
+  "soñé",
 ];
 
 let VERSES = {
