@@ -1,10 +1,10 @@
 let SUGGESTIONS = [
 
 
-“soñé que te daba una cachetada”,
-“soñé que no”,
-“me dormí un ratito y soñé que te quebrabas las dos plantas de los pies”,
-“soñé con el techo de villa silvina”,
+“soñe que te daba una cachetada”,
+“soñe que no”,
+“me dormi un ratito y soñe que te quebrabas las dos plantas de los pies”,
+“soñe con el techo de villa silvina”,
 
 ];
 
