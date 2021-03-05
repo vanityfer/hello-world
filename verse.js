@@ -1,6 +1,6 @@
 
 let NAMES = [
-  "soñé",
+  "soñé", "hola",
  
 ];
 
