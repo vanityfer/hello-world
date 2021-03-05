@@ -1,11 +1,8 @@
 let SUGGESTIONS = [
-
-
 “soñe que te daba una cachetada”,
 “soñe que no”,
 “me dormi un ratito y soñe que te quebrabas las dos plantas de los pies”,
 “soñe con el techo de villa silvina”,
-
 ];
 
 SUGGESTIONS.sort(function (x, y) {
@@ -32,7 +29,7 @@ function streq(str1, str2) {
   return strcmp(str1, str2) === 0;
 }
 
-let MAX_RESULTS = 10;
+let MAX_RESULTS = 4;
 function get_suggestions(prefix) {
   let i = 0;
   let j = SUGGESTIONS.length;
