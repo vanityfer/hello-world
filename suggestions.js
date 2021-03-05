@@ -1,7 +1,7 @@
 let SUGGESTIONS = [
 “soñé que te daba una cachetada”,
 “soñé que no”,
-“me dormí un ratito y soñé”,
+“me dormí un ratito y soñé
 que te quebrabas las dos plantas de los pies”,
 “soñé con el techo de villa silvina”,
 “soñé que tenía diócesis. ‘diócesis’ era una enfermedad”,
