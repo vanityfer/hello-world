@@ -30,7 +30,7 @@ function streq(str1, str2) {
   return strcmp(str1, str2) === 0;
 }
 
-let MAX_RESULTS = 10;
+let MAX_RESULTS = 4;
 function get_suggestions(prefix) {
   let i = 0;
   let j = SUGGESTIONS.length;
